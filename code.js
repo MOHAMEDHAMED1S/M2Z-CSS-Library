@@ -423,7 +423,7 @@ const designs = [
     "id": 61,
     "title": "Loader",
     "views": "8K",
-    "htmlCode": "/* From Uiverse.io by csemszepp */ \n<div class=\"centered\">\n\t<div class=\"blob-1\"></div>\n\t<div class=\"blob-2\"></div>\n</div>",
+    "htmlCode": " \n<div class=\"centered\">\n\t<div class=\"blob-1\"></div>\n\t<div class=\"blob-2\"></div>\n</div>",
     "cssCode": ".centered {\n  width: 400px;\n  height: 400px;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%,-50%);\n  background: rgb(33 33 33 / var(--tw-bg-opacity))!important;\n  ;\n\tfilter: blur(10px) contrast(20);\n}\n\n.blob-1,.blob-2 {\n  width: 70px;\n  height: 70px;\n  position: absolute;\n  background: #fff;\n  border-radius: 50%;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%,-50%);\n}\n\n.blob-1 {\n  left: 20%;\n  animation: osc-l 2.5s ease infinite;\n}\n\n.blob-2 {\n  left: 80%;\n  animation: osc-r 2.5s ease infinite;\n  background: #0ff;\n}\n\n@keyframes osc-l {\n  0% {\n    left: 20%;\n  }\n\n  50% {\n    left: 50%;\n  }\n\n  100% {\n    left: 20%;\n  }\n}\n\n@keyframes osc-r {\n  0% {\n    left: 80%;\n  }\n\n  50% {\n    left: 50%;\n  }\n\n  100% {\n    left: 80%;\n  }\n}"
   },
   {
