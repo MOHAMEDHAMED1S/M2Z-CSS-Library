@@ -727,6 +727,6 @@ html {
 @media (max-width: 992px) {
   .container {
 
-    margin-left: 0px;
+    margin-left: 20px;
   }
 }
