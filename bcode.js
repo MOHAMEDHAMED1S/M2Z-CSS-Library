@@ -1,11 +1,5 @@
 const designs = [
-  {
-    "id": 1,
-    "title": "Button",
-    "views": "8K",
-    "htmlCode": "\n<button class=\"button\">\n\n  \n  <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" class=\"w-6 h-6\">\n    <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.5 12h15m0 0l-6.75-6.75M19.5 12l-6.75 6.75\"></path>\n  </svg>\n\n  \n  <div class=\"text\">\n    Button\n  </div>\n\n</button>",
-    "cssCode": ".button {\n  background-color: #ffffff00;\n  color: #fff;\n  width: 8.5em;\n  height: 2.9em;\n  border: #3654ff 0.2em solid;\n  border-radius: 11px;\n  text-align: right;\n  transition: all 0.6s ease;\n}\n\n.button:hover {\n  background-color: #3654ff;\n  cursor: pointer;\n}\n\n.button svg {\n  width: 1.6em;\n  margin: -0.2em 0.8em 1em;\n  position: absolute;\n  display: flex;\n  transition: all 0.6s ease;\n}\n\n.button:hover svg {\n  transform: translateX(5px);\n}\n\n.text {\n  margin: 0 1.5em\n}"
-  },
+
   {
     "id": 2,
     "title": "Button",

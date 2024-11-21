@@ -723,3 +723,10 @@ html {
     background: #4338ca;
     color: #eef2ff;
 }
+
+@media (max-width: 992px) {
+  .container {
+
+    margin-left: 0px;
+  }
+}
