@@ -19,7 +19,7 @@ The project consists of the following files:
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/M2Z-CSS-Library.git
+git clone https://github.com/MOHAMEDHAMED1S/M2Z-CSS-Library.git
 
 # Navigate to project directory
 cd M2Z-CSS-Library
